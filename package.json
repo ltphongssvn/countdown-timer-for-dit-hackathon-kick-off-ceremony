@@ -1,0 +1,23 @@
+{
+  "name": "dreamers-hackathon-countdown",
+  "version": "1.0.0",
+  "description": "Countdown timer bot for Dreamers in Tech Hackathon that posts to Slack",
+  "main": "countdown-bot.js",
+  "scripts": {
+    "start": "node countdown-bot.js",
+    "dev": "node countdown-bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "countdown",
+    "hackathon",
+    "bot"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
